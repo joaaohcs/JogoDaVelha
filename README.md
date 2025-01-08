@@ -31,8 +31,7 @@ Criar uma aplicação funcional do jogo da velha que:
 - **Python 3.x**
 - **Pygame**  
   Biblioteca para desenvolvimento de jogos e interfaces gráficas.
-- **Serialização**  
-  Implementada para persistência de dados e manipulação do estado do jogo.
+
 
 ---
 
@@ -43,7 +42,7 @@ O projeto está dividido em módulos para facilitar a manutenção:
   Define a classe `Jogador`.
 - `tabuleiro.py`  
   Define a classe `Tabuleiro`, responsável por gerenciar o estado do jogo.
-- `main.py`  
+- `jogo_da_velha.py`  
   Contém a lógica principal e a classe `JogoDaVelha`.
 
 ---
@@ -56,7 +55,7 @@ Certifique-se de ter o **Python** instalado em sua máquina. Você pode instalá
 ### Passos
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/seu-usuario/jogo-da-velha.git
+   git clone https://github.com/joaaohcs/JogoDaVelha.git
 2. Navegue até o diretório do projeto:
    ```bash
    cd jogo-da-velha
@@ -65,6 +64,6 @@ Certifique-se de ter o **Python** instalado em sua máquina. Você pode instalá
    pip install pygame
 4. Execute o jogo:
    ```bash
-   python main.py
+   python jogo_da_velha.py
    
 
