@@ -58,7 +58,7 @@ Certifique-se de ter o **Python** instalado em sua máquina. Você pode instalá
    git clone https://github.com/joaaohcs/JogoDaVelha.git
 2. Navegue até o diretório do projeto:
    ```bash
-   cd jogo-da-velha
+   cd jogo
 3. Instale as dependências necessárias:
    ```bash
    pip install pygame
