@@ -11,7 +11,6 @@ Criar uma aplicação funcional do jogo da velha que:
    - **Herança**
    - **Polimorfismo**
    - **Encapsulamento Total**
-   - **Serialização de Objetos**
 2. Forneça uma interface gráfica amigável usando **Pygame**.
 
 ---
